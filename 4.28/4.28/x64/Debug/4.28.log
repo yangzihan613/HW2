@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(59,5): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(18,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(25,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(27,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(40,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(47,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yangz\OneDrive\Desktop\HW2\4.28\main.c(49,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
